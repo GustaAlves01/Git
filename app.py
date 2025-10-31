@@ -1,3 +1,4 @@
 print("Hello world!")
 a=1
-print("aa")
+b=4
+print(a+b)
